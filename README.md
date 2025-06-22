@@ -2,12 +2,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ancily24/ancily24/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ancily24/ancily24/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ancily24/ancily24/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <p align="center">My name is Ancily Mathew and I'm from Mississauga, ON, Canada</p>
