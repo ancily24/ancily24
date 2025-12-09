@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">My name is Ancily Mathew and I'm from Mississauga, ON, Canada</p>
+<p align="center">My name is Ancily Mathew and I'm from Toronto, ON, Canada</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions (and sometimes bugs) since 2018  <br>📚 Currently learning advanced AWS cloud services and data storytelling  <br>🎯 Goals: Secure a backend engineering role in Canada, contribute to impactful products, and grow in cloud architecture  <br>🎲 Fun fact: I moved continents, but my love for clean code and filter coffee stayed the same!</p>
+<p align="left">✨ Creating solutions (and sometimes bugs) since 2018  <br>📚 Currently working as a senior software engineer  <br>🎲 Fun fact: I moved continents, but my love for clean code and filter coffee stayed the same!</p>
 
 ###
 
